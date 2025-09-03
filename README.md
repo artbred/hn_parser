@@ -2,6 +2,10 @@
 
 A high-performance, concurrent HackerNews story scraper written in Go. This tool efficiently downloads story data from the HackerNews API with support for incremental updates, checkpointing, and various filtering options.
 
+# Dataset with 450k+ HN stories
+
+https://huggingface.co/datasets/artbred/hn_stories
+
 ## Installation
 
 ### Prerequisites
